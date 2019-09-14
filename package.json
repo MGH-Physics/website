@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "mgh-physics",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Cal High's Physics Club website",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Vihan Bhargava <vihan+physicsclub@vihan.org>",
   "dependencies": {
     "gatsby": "^2.15.15",
     "gatsby-image": "^2.2.19",
